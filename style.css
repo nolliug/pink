@@ -1,0 +1,43 @@
+.logo
+{
+align-content: left;
+width: 80px;
+height: auto;
+float: left;
+}
+
+.nav
+{
+    float:right;
+}
+
+header ul
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3px;
+    margin-right: 3px
+    float:right;
+    list-style-type: none;
+    color:pink;
+    
+}
+
+.video
+{
+    float: center;
+}
+
+.container
+{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card
+{
+    width: 594px;
+    height: 747px;
+}
